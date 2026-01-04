@@ -75,8 +75,6 @@ python redacteddd.py
 # etc.
 ```
 
-To leverage the persistence mechanism (specifics will depend on the VBScript's content):
-(TODO: Add specific instructions for `verification.vbs` based on its actual implementation.)
 
 ## 📁 Project Structure
 
@@ -94,11 +92,7 @@ keylogger/
 
 ### Environment Variables
 No explicit environment variables or configuration files were detected. If the scripts require credentials (e.g., for email exfiltration) or other settings, these are likely hardcoded or managed internally within the scripts.
-(TODO: If environment variables are used, list them here.)
 
-## 🤝 Contributing
-
-While specific contribution guidelines are not provided, we welcome improvements and suggestions to enhance the educational value and functionality of these scripts.
 
 ### Development Setup for Contributors
 1.  Fork the repository.
@@ -110,7 +104,7 @@ While specific contribution guidelines are not provided, we welcome improvements
 
 ## 📄 License
 
-This project does not currently have an explicit license file. Please contact the repository owner for licensing information.
+This project does not currently have an explicit license file. 
 
 ## 📞 Support & Contact
 
