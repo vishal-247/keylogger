@@ -1,4 +1,4 @@
-[readme-studio-generated (1).md](https://github.com/user-attachments/files/24421578/readme-studio-generated.1.md)
+
 ![GitHub stars](https://img.shields.io/github/stars/vishal-247/keylogger?style=for-the-badge)
 
 [![GitHub forks](https://img.shields.io/github/forks/vishal-247/keylogger?style=for-the-badge)](https://github.com/vishal-247/keylogger/network)
