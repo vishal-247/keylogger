@@ -1,1 +1,5 @@
 .venv
+real_bat
+.env
+*.key
+*.pem
